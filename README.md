@@ -4,7 +4,7 @@ Hi 👋 My name is Berat Pektaş
 Hello, my name is Berat Pektaş. I am a Management Information Systems graduate. I want to work as a business analyst, business intelligence specialist and project manager.
 
 * 🌍  I'm based in Kocaeli Turkey
-* See my my resume at [My Resume](http://beratpektas.com)
+* 🖥️  See my my resume at [My Resume](http://beratpektas.com)
 * ✉️  You can contact me at [beratpkts@hotmail.com](mailto:beratpkts@hotmail.com)
 * 🧠  I'm learning Tableau Software
 * 🤝  I'm open to collaborating on Projects I can develop myself
